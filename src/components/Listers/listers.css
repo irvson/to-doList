@@ -1,0 +1,28 @@
+.content {
+    background-color: #20212C;
+    color: #797a81;
+    display: flex;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    align-items: center;   
+    
+}
+
+.content input{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+    
+}
+
+
+
+
+
+.content label {
+    color: #CCC;
+    text-decoration: initial;
+    
+}
+
